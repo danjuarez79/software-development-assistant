@@ -1,0 +1,4 @@
+# Ignore env file
+.env
+# ignore pycache files
+*.pyc

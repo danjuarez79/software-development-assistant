@@ -1,0 +1,10 @@
+# Don't use autogen
+# autogen==1.0.16
+pyautogen==0.2.32
+python-dotenv==1.0.1
+# https://pypi.org/project/langchain/
+# langchain==0.2.7
+langchain-community==0.2.7
+langchain-openai==0.1.16
+sentence_transformers==3.0.1
+chromadb==0.5.4
